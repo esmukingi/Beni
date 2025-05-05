@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Space Portfolio",
+  title: "ngobokaben",
   description: "This is my Portfolio",
 };
 
@@ -32,6 +32,7 @@ export default function RootLayout({
         <meta name="description" content="Alain Beni Ngoboka Portfolio - Front-End & Full-Stack Developer" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="shortcut icon" href="/logo.png" type="image/x-icon" />
       </head>
       <body
         className={`min-h-screen ${geistSans.variable} ${geistMono.variable} bg-[#030014] overflow-y-scroll overflow-x-hidden antialiased`}
