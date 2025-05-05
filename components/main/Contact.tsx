@@ -41,10 +41,10 @@ const Contact = () => {
         animate={{ scale: 1, opacity: 1 }}
       >
         <div className="flex items-center gap-3">
-          <FaPhoneAlt className="text-purple-500" /> <span>+250 788 123 456</span>
+          <FaPhoneAlt className="text-purple-500" /> <span>+250 787 979 333</span>
         </div>
         <div className="flex items-center gap-3">
-          <FaEnvelope className="text-cyan-500" /> <span>alainbeni@example.com</span>
+          <FaEnvelope className="text-cyan-500" /> <span>ngobokaben@gmail.com</span>
         </div>
         <div className="flex items-center gap-3">
           <FaMapMarkerAlt className="text-pink-500" /> <span>Gatsata, Kigali, Rwanda</span>
@@ -57,13 +57,13 @@ const Contact = () => {
         initial={{ y: 30, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
       >
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/ngobokaben" target="_blank" rel="noopener noreferrer">
           <FaGithub className="hover:text-purple-500 transition" />
         </a>
-        <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+        <a href="https://linkedin.com/in/NGOBOKA Alain Beni" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="hover:text-cyan-500 transition" />
         </a>
-        <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+        <a href="https://instagram.com/Shema Herve" target="_blank" rel="noopener noreferrer">
           <FaInstagram className="hover:text-pink-500 transition" />
         </a>
       </motion.div>
