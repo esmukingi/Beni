@@ -15,7 +15,7 @@ const Navbar = () => {
                   className='cursor-pointer hover:animate-slowspin'
                 />
                 <span className='font-bold ml-[10px] text-2xl hidden md:block text-gray-300'>
-                    NGOBOKA Alain Beni
+                    Infinexa
                 </span>
             </a>
             <div className='w-[500px] h-full flex flex-row items-center justify-between md:mr-20'>

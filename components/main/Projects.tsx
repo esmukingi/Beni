@@ -17,7 +17,7 @@ const Projects = () => {
           description="A smart mock interview platform powered by AI that helps users practice and improve their interview skills through realistic, customizable interview scenarios."
         />
         <ProjectCard
-          src="/CardImage.png"
+          src="/solved.png"
           title="NexChat – Fullstack Chat App"
           description="A full-featured real-time chat application with authentication, private/group messaging, and admin controls. Built using React, Express, MONGO DB, and Tailwind CSS."
           
