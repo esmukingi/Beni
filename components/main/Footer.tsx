@@ -58,7 +58,7 @@ const Footer = () => {
             </div>
 
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; ngoboka@2025. All rights reserved
+                &copy; ngoboka@2025.Infinexa All resources are within
             </div>
         </div>
     </div>

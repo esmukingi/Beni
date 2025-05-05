@@ -207,13 +207,6 @@ export const Skill_data = [
   
   export const Full_stack = [
     {
-      skill_name: "Docker",
-      Image: "/docker.webp",
-      width: 70,
-      height: 70,
-    },
-  
-    {
       skill_name: "Figma",
       Image: "/figma.png",
       width: 50,
